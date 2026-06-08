@@ -44,7 +44,7 @@ Por se tratar de uma aplicação client-side pura, você não precisa instalar s
 
 1. Clone o repositório em sua máquina:
 ```bash
-git clone [https://github.com/cassia-nascimento/sorteador-de-numeros.git](https://github.com/cassia-nascimento/sorteador-de-numeros.git)
+git clone https://github.com/cassia-nascimento/sorteador-de-numeros.git
 
 ```
 
